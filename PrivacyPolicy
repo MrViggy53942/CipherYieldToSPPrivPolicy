@@ -1,0 +1,118 @@
+Cipher Yield
+Last Updated: [Insert Date]
+Developer: Alex Vigested — Alex.Vigested@gmail.com
+
+  1. Information We Collect
+    1.1 Google Sign-In Information
+      When you sign in with Google, we receive only the following information:
+        Email address
+        Given name (Based on Google Account information)
+        Google account ID (for authentication only)
+    1.2 Display Name
+        Your given name is used to generate a display name, which you may change.
+    1.3 Automatically Collected Data
+        Cipher Yield itself does not collect additional personal information such as location, device identifiers, or analytics data outside of what is required 
+            by third-party services you explicitly interact with, such as Google AdMob (see Section 7).
+ 
+  2. How We Use Your Information
+    We use your information to:
+      Create and maintain your account
+      Authenticate you securely
+      Provide a display name
+      Improve or maintain app functionality
+      We do not sell or rent your data.
+
+  3. Legal Bases for Processing (GDPR Requirement)
+    For users located in the EU/UK, we process your data using these lawful bases:
+      Performance of a Contract: We must process your email and Google ID to create and maintain your account.
+      Legitimate Interest: To secure the Service and prevent misuse.
+      Consent: For personalized ads delivered by Google AdMob (where required).
+    You may withdraw consent for personalized ads at any time (details in Section 7).
+
+  4. Your Rights (GDPR + CCPA)
+    You have the right to:
+      Access the data we hold about you
+      Correct inaccurate information
+      Delete your account and all associated data
+      Export your data in a portable format (GDPR “Data Portability”)
+      Request details about categories of data collected (CCPA)
+      Opt out of data sale (we do not sell data, but we still honor this right)
+
+    To exercise any rights, email: Alex.Vigested@gmail.com
+
+  5. Non-Discrimination Statement (CCPA Requirement)
+    We will not deny features, charge different prices, or provide lower-quality service because you exercised your privacy rights.
+
+  6. Data Retention
+    We keep account data only while your account remains active.
+    Upon deletion, your personal data is removed or anonymized except where legally required.
+
+  7. Third-Party Services — Google AdMob
+    Cipher Yield uses Google AdMob to display advertisements, including reward-based ads.
+      7.1 Information AdMob May Collect
+        Google AdMob may automatically collect:
+          Advertising identifiers (e.g., AAID)
+          IP address
+          Device information
+          Interaction with ads
+          Approximate location
+          App usage analytics
+          Data needed to show personalized or non-personalized ads
+        This collection is governed by Google’s own Privacy & Terms, not Cipher Yield.
+      7.2 Consent for Personalized Ads (GDPR & EU Users)
+
+Users in the EU/UK must be presented with a consent form before personalized ads are shown.
+You must:
+
+Ask users if they want personalized ads
+
+Allow users to decline
+
+Store the consent decision
+
+Allow the user to change their choice
+
+7.3 Opt-Out for U.S. Users
+
+Users in the United States may opt out of:
+
+Interest-based advertising
+
+“Sale” or “sharing” of data for advertising (under California CPRA)
+
+Cipher Yield will honor system-level “opt out of ads personalization” where applicable.
+
+7.4 Children’s Ads (COPPA)
+
+Cipher Yield is not intended for children under 13.
+AdMob must be configured in:
+
+non-child mode
+
+not directed toward children
+
+8. Data Sharing
+
+We share data only as necessary for:
+
+Account authentication (Google)
+
+Advertising (AdMob)
+
+We do not share your information with third parties for marketing purposes.
+
+9. Security
+
+We use reasonable administrative and technical measures to protect data.
+However, no method is completely secure, and we cannot guarantee absolute protection.
+
+10. Changes to This Policy
+
+We may update this policy. The updated date will reflect the latest revision.
+
+11. Contact Us
+
+For privacy questions or requests:
+
+Developer: Alex Vigested
+Email: Alex.Vigested@gmail.com
